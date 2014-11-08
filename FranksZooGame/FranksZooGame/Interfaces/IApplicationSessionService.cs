@@ -6,7 +6,7 @@ using FranksZooGame.Classes;
 
 namespace FranksZooGame.Interfaces
 {
-    interface IApplicationSessionService
+    public interface IApplicationSessionService
     {
         void SetCurrentUsers(User[] currentUsers);
         User[] GetCurrentUsers();

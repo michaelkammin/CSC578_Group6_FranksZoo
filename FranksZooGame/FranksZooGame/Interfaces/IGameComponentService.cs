@@ -6,7 +6,7 @@ using FranksZooGame.Classes;
 
 namespace FranksZooGame.Interfaces
 {
-    interface IGameComponentService
+    public interface IGameComponentService
     {
         Deck CreateDeck();
         Deck ShuffleDeck(Deck deck);

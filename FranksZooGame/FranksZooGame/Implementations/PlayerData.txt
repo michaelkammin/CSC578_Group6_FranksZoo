@@ -1,0 +1,5 @@
+﻿[Player_1]:Mosquito,Fish,Mouse,Crocodile,Elephant,Whale,Fish,Fox,Perch,Mouse,Polar Bear,Polar Bear,Mosquito,Hedgehog,Lion
+[Player_2]:Mosquito,Polar Bear,Seal,Fox,Whale,Polar Bear,Perch,Fish,Lion,Perch,Perch,Mouse,Seal,Crocodile,Seal
+[Player_3]:Mosquito,Mouse,Seal,Elephant,Lion,Fox,Fish,Crocodile,Elephant,Hedgehog,Whale,Elephant,Lion,Lion,Seal
+[Player_4]:Hedgehog,Fish,Whale,Fox,Hedgehog,Perch,Polar Bear,Hedgehog,Fox,Crocodile,Mouse,Crocodile,Elephant,Whale,Joker
+[Dealer]:Player_1

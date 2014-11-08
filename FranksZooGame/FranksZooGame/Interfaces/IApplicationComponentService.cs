@@ -6,9 +6,13 @@ using FranksZooGame.Classes;
 
 namespace FranksZooGame.Interfaces
 {
-    interface IApplicationComponentService
+    public interface IApplicationComponentService
     {
+        bool IsUserNameValid(string userName);
+        bool CheckMaxUserCount(User[] currentUsers);
+        bool CanUserBeAdded(string userName,User[] currentUsers);
         User[] AddUser(string userName, User[] currentUsers);
+        User[] AddUser(string userName, Card[] hand, User[] currentUsers);
         User[] RemoveUser(string userName, User[] currentUsers);
         User[] GetCurrentUsers();
         Game StartGame();

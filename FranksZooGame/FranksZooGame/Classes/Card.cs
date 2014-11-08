@@ -7,6 +7,6 @@ namespace FranksZooGame.Classes
 {
     public class Card
     {
-
+        public string CardName { get; set; }
     }
 }

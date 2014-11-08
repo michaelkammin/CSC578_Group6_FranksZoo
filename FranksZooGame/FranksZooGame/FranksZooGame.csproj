@@ -51,6 +51,8 @@
     <Compile Include="Classes\User.cs" />
     <Compile Include="Implementations\ApplicationComponentServiceImpl.cs" />
     <Compile Include="Implementations\ApplicationSessionServiceImpl.cs" />
+    <Compile Include="Implementations\GameComponentServiceImpl.cs" />
+    <Compile Include="Implementations\UserComponentServiceImpl.cs" />
     <Compile Include="Interfaces\IApplicationComponentService.cs" />
     <Compile Include="Interfaces\IApplicationSessionService.cs" />
     <Compile Include="Interfaces\IGameComponentService.cs" />
@@ -58,7 +60,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Implementations\PlayerData.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

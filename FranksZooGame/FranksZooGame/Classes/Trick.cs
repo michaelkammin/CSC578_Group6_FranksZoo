@@ -5,7 +5,7 @@ using System.Text;
 
 namespace FranksZooGame.Classes
 {
-    class Trick
+    public class Trick
     {
     }
 }

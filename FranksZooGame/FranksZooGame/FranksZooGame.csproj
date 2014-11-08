@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Card.cs" />
+    <Compile Include="Classes\Deck.cs" />
     <Compile Include="Classes\Game.cs" />
+    <Compile Include="Classes\Play.cs" />
+    <Compile Include="Classes\Trick.cs" />
     <Compile Include="Classes\User.cs" />
+    <Compile Include="Implementations\ApplicationComponentServiceImpl.cs" />
     <Compile Include="Implementations\ApplicationSessionServiceImpl.cs" />
     <Compile Include="Interfaces\IApplicationComponentService.cs" />
     <Compile Include="Interfaces\IApplicationSessionService.cs" />

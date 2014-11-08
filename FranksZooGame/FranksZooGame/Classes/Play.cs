@@ -5,8 +5,7 @@ using System.Text;
 
 namespace FranksZooGame.Classes
 {
-    public class User
+    public class Play
     {
-        public string UserName { get; set; }
     }
 }

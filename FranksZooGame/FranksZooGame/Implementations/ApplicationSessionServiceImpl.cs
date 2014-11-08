@@ -12,24 +12,24 @@ namespace FranksZooGame.Implementations
         private User[] _currentUsers;
         private Game _currentGame;
 
-        public void SetCurrentUsers(Classes.User[] currentUsers)
+        public void SetCurrentUsers(User[] currentUsers)
         {
-            throw new NotImplementedException();
+            _currentUsers = currentUsers;
         }
 
-        public Classes.User[] GetCurrentUsers()
+        public User[] GetCurrentUsers()
         {
-            throw new NotImplementedException();
+            return _currentUsers;
         }
 
-        public void SetCurrentGame(Classes.Game game)
+        public void SetCurrentGame(Game game)
         {
-            throw new NotImplementedException();
+            _currentGame = game;
         }
 
-        public Classes.Game GetCurrentGame()
+        public Game GetCurrentGame()
         {
-            throw new NotImplementedException();
+            return _currentGame;
         }
     }
 }

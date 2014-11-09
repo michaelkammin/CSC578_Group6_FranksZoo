@@ -9,5 +9,16 @@ namespace FranksZooGame.Classes
     {
         public User _winner { get; set; }
         public int _exitOrder { get; set; }
+
+        public Winner()
+        {
+            _winner = null;
+            _exitOrder = 0;
+        }
+        public Winner(User winner, int exitOrder)
+        {
+            _winner = winner;
+            _exitOrder = exitOrder;
+        }
     }
 }

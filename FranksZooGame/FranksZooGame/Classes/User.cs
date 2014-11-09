@@ -9,6 +9,23 @@ namespace FranksZooGame.Classes
     {
         public string UserName { get; set; }
 
+        public List<Card> UserHand;
+
+        public int CurrentScore { get; set; }
+
+        public int PreviousScore { get; set; }
+
+        public User()
+        {
+            UserName = "";
+            UserHand = new List<Card>();
+        }
+        public User(string name, List<Card> cards)
+        {
+            UserName = name;
+            UserHand = cards;
+        }
+
         public override string ToString()
         {
             StringBuilder userString = new StringBuilder(UserName);

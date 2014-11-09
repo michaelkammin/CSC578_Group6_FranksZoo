@@ -13,6 +13,15 @@ namespace FranksZooGame.Classes
         private List<Trick> _tricks;
         private List<Winner> _winners;
 
+        public Game()
+        {
+            _activePlay = null;
+            _helpSet = new List<Card>();
+            _PlayHistory = new List<Play>();
+            _tricks = new List<Trick>();
+            _winners = new List<Winner>();
+        }
+
         public List<Card> getHelpSet()
         {
             return _helpSet;

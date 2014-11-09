@@ -11,7 +11,8 @@ namespace FranksZooGame.Interfaces
         Deck CreateDeck();
         Deck ShuffleDeck(Deck deck);
         Card Draw(Deck deck);
-        void StartRound(Game game);
+        List<User> StartHand(Deck deck, List<User> users, Game game);
+        List<User> StartRound(List<User> Users, Game game);
         Play GetActivePlay(Game game);
         bool IsValidPlay(Card[] activePlay, Card[] play);
         void SetActivePlay(Card[] play, User user, Game game);

@@ -11,12 +11,38 @@ namespace FranksZooGame.Implementations
     {
         public Deck CreateDeck()
         {
-            throw new NotImplementedException();
+            Deck temp = new Deck();
+            return temp;
         }
 
         public Deck ShuffleDeck(Deck deck)
         {
-            throw new NotImplementedException();
+            List<Card> list = new List<Card>(deck.Cards);
+            deck.Cards = new Queue<Card>();
+
+            var random = new Random();
+            while (list.Count > 0)
+            {
+                Int32 index = random.Next(list.Count);
+                Card card = list[index];
+                list.RemoveAt(index);
+                deck.Cards.Enqueue(card);
+            }
+            return deck;
+        }
+
+        public Card Draw(Deck deck)
+        {
+            if (deck.Cards.Count == 0)
+            {
+                return null;
+            }
+            else
+            {
+                Card card = deck.Cards.Dequeue();
+
+                return card;
+            }
         }
 
         public void StartRound(Game game)
@@ -26,7 +52,7 @@ namespace FranksZooGame.Implementations
 
         public Play GetActivePlay(Game game)
         {
-            throw new NotImplementedException();
+            return game._activePlay;
         }
 
         public bool IsValidPlay(Card[] activePlay, Card[] play)
@@ -34,9 +60,10 @@ namespace FranksZooGame.Implementations
             throw new NotImplementedException();
         }
 
-        public void SetActivePlay(Card[] play, Game game)
+        public void SetActivePlay(Card[] play, User user, Game game)
         {
-            throw new NotImplementedException();
+            Play currentPlay = new Play(play.ToList(), user);
+            game._activePlay = currentPlay;
         }
 
         public Card[] CheckPlayerHand(Card[] activePlay, Card[] play)

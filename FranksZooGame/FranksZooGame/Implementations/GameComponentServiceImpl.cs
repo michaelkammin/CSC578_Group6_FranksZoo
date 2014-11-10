@@ -48,6 +48,8 @@ namespace FranksZooGame.Implementations
         public List<User> StartHand(Deck deck, List<User> Users, Game game)
         {
             Users = StartRound(Users, game);
+            Users.Add(Users.First());
+            Users.Remove(Users.First());
             while (deck.Cards.Count != 0)
             {
                 foreach (User user in Users)
@@ -60,7 +62,19 @@ namespace FranksZooGame.Implementations
 
         public List<User> StartRound(List<User> Users, Game game)
         {
-            int max = Users.Max(str => str.PreviousScore);
+            int max = 0;
+            try
+            {
+                max = Users.Max(str => str.PreviousScore);
+            }
+            catch (ArgumentNullException e)
+            {
+                
+            }
+            catch (Exception e)
+            {
+                
+            }
             List<User> users = new List<User>();
             foreach (User user in Users)
             {
@@ -543,7 +557,29 @@ namespace FranksZooGame.Implementations
 
         public void EndGame(Game game)
         {
-            throw new NotImplementedException();
+            string command = "";
+            do
+            {
+                Console.WriteLine("Would You Like To Start A New Game Yes or No");
+                command = Console.ReadLine();
+                if (command.ToUpper() == "YES" || command.ToUpper() == "Y")
+                {
+                    IApplicationComponentService applicationComponent = new ApplicationComponentServiceImpl(new ApplicationSessionServiceImpl(), new UserComponentServiceImpl(), new GameComponentServiceImpl());
+
+                    applicationComponent.StartGame();
+
+                    User[] currentUsers = applicationComponent.GetCurrentUsers();
+
+                    foreach (User user in currentUsers)
+                    {
+                        Console.WriteLine(user.ToString());
+                    }
+                }
+                else if (command.ToUpper() == "NO" || command.ToUpper() == "N")
+                {
+                    Console.WriteLine("Thank You So Much For Playing");
+                }
+            } while (command.ToUpper() != "NO" || command.ToUpper() != "N" || command.ToUpper() == "YES" || command.ToUpper() == "Y");
         }
     }
 }

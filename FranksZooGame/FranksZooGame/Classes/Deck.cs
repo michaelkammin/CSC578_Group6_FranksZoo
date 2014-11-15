@@ -11,6 +11,8 @@ namespace FranksZooGame.Classes
 
         public Deck()
         {
+            this.Cards = new Queue<Card>();
+
             for (int c = 0; c < 5; c++)
             {
                 Cards.Enqueue(new Card("Elephant"));

@@ -11,17 +11,19 @@ namespace FranksZooGame.Implementations
     {
         public User[] AddUser(string userName, User[] currentUsers)
         {
-            throw new NotImplementedException();
+            User user = new User(userName);
+
+            int index = AvailableIndex(currentUsers);
+
+            currentUsers[index] = user;
+
+            return currentUsers;
+
         }
 
         public User[] AddUser(string userName, Card[] hand, User[] currentUsers)
         {
-            User user = new User
-                {
-                    UserName = userName
-                };
-
-            // set up the user's hand
+            User user = new User(userName, hand.ToList());
 
             int index = AvailableIndex(currentUsers);
 
@@ -32,24 +34,41 @@ namespace FranksZooGame.Implementations
 
         public User[] RemoveUser(string userName, User[] currentUsers)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i< currentUsers.Length;i++)
+            {
+                if (currentUsers[i].UserName.Equals(userName))
+                {
+                    Array.Clear(currentUsers,i,1);
+                    return currentUsers;
+                }
+            }
+            // The userName was not in the array. Might want to throw an Exception here instead of null
+            return null;
         }
 
         public bool IsUserNameValid(string userName)
         {
-            // TODO: implement this to actually work correctly
-            return true;
+            // This method only checks the 15 character limit
+            if (userName.Length < -15)
+                return true;
+            else
+                return false;
         }
 
         public bool CheckMaxUserCount(User[] currentUsers, int maxUserCount)
         {
-            // TODO: implement this to work correctly
-            return true;
+            if (currentUsers.Length <= maxUserCount)
+                return true;
+            else
+                return false;
         }
 
         public bool CheckMinUserCount(User[] currentUsers, int minUserCount)
         {
-            throw new NotImplementedException();
+            if (currentUsers.Length >=minUserCount)
+                return true;
+            else
+                return false;
         }
 
 

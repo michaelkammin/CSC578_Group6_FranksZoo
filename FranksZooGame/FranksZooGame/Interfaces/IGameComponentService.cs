@@ -14,7 +14,8 @@ namespace FranksZooGame.Interfaces
         List<User> StartHand(Deck deck, List<User> users, Game game);
         List<User> StartRound(List<User> Users, Game game);
         Play GetActivePlay(Game game);
-        bool IsValidPlay(Card[] activePlay, Card[] play);
+        bool IsValidPlay(List<Card> activePlay, List<Card> play);
+        //bool IsValidPlay(Card[] activePlay, Card[] play);
         void SetActivePlay(Card[] play, User user, Game game);
         Card[] CheckPlayerHand(Card[] activePlay, Card[] play);
         Trick EndRound(Game game);

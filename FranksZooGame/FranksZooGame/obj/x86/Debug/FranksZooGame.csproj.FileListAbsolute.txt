@@ -7,3 +7,8 @@ C:\Users\pkdkb_000\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\Franks
 C:\Users\pkdkb_000\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\obj\x86\Debug\FranksZooGame.pdb
 C:\Courses\CSC578\Group Project\FranksZoo_Git\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\obj\x86\Debug\FranksZooGame.exe
 C:\Courses\CSC578\Group Project\FranksZoo_Git\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\obj\x86\Debug\FranksZooGame.pdb
+C:\Users\Jacob\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\obj\x86\Debug\FranksZooGame.exe
+C:\Users\Jacob\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\obj\x86\Debug\FranksZooGame.pdb
+C:\Users\Jacob\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\obj\x86\Debug\FranksZooGame.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\bin\Debug\FranksZooGame.exe
+C:\Users\Jacob\Documents\GitHub\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\bin\Debug\FranksZooGame.pdb

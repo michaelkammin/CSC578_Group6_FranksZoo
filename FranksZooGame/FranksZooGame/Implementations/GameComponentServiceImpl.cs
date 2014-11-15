@@ -31,7 +31,7 @@ namespace FranksZooGame.Implementations
             return deck;
         }
 
-        public Card Draw(Deck deck)
+        public Card DealHand(Deck deck)
         {
             if (deck.Cards.Count == 0)
             {
@@ -54,7 +54,7 @@ namespace FranksZooGame.Implementations
             {
                 foreach (User user in Users)
                 {
-                    user.UserHand.Add(Draw(deck));
+                    user.UserHand.Add(DealHand(deck));
                 }
             }
             return Users;

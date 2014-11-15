@@ -10,7 +10,7 @@ namespace FranksZooGame.Interfaces
     {
         Deck CreateDeck();
         Deck ShuffleDeck(Deck deck);
-        Card Draw(Deck deck);
+        Card DealHand(Deck deck);
         List<User> StartHand(Deck deck, List<User> users, Game game);
         List<User> StartRound(List<User> Users, Game game);
         Play GetActivePlay(Game game);

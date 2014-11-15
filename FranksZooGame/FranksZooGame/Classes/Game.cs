@@ -7,7 +7,7 @@ namespace FranksZooGame.Classes
 {
     public class Game
     {
-        public Play _activePlay;
+        public Play activePlay;
         private List<Card> _helpSet;
         private List<Play> _PlayHistory;
         private List<Trick> _tricks;
@@ -15,7 +15,7 @@ namespace FranksZooGame.Classes
 
         public Game()
         {
-            _activePlay = null;
+            activePlay = null;
             _helpSet = new List<Card>();
             _PlayHistory = new List<Play>();
             _tricks = new List<Trick>();

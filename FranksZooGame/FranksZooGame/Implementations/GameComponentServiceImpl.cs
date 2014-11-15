@@ -99,7 +99,7 @@ namespace FranksZooGame.Implementations
 
         public Play GetActivePlay(Game game)
         {
-            return game._activePlay;
+            return game.activePlay;
         }
 
         public bool IsValidPlay(List<Card> activePlay, List<Card> play)
@@ -515,7 +515,7 @@ namespace FranksZooGame.Implementations
         public void SetActivePlay(Card[] play, User user, Game game)
         {
             Play currentPlay = new Play(play.ToList(), user);
-            game._activePlay = currentPlay;
+            game.activePlay = currentPlay;
         }
 
         public Card[] CheckPlayerHand(Card[] activePlay, Card[] play)

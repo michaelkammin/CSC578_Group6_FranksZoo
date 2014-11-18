@@ -7,26 +7,21 @@ namespace FranksZooGame.Classes
 {
     public class Play
     {
-        private List<Card> _cards;
-        private User _user { get; set; }
+        public List<Card> Cards { get; set; }
+        public User ActiveUser { get; set; }
 
         public Play()
         {
-            _cards = new List<Card>();
-            _user = null;
+            Cards = new List<Card>();
+            ActiveUser = null;
         }
-        public Play(List<Card> card, User user)
+
+        public Play(List<Card> cards, User user)
         {
-            _cards.AddRange(card);
-            _user = user;
-        }
-        public List<Card> getCards()
-        {
-            return _cards;
-        }
-        public void setCards(List<Card> list)
-        {
-            _cards = list;
+            Cards = new List<Card>();
+            Cards.AddRange(cards);
+
+            ActiveUser = user;
         }
     }
 }

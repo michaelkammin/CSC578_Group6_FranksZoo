@@ -8,9 +8,11 @@ namespace FranksZooGame.Interfaces
 {
     public interface IApplicationSessionService
     {
-        void SetCurrentUsers(User[] currentUsers);
-        User[] GetCurrentUsers();
+        void SetCurrentUsers(List<User> currentUsers);
+        List<User> GetCurrentUsers();
         void SetCurrentGame(Game game);
         Game GetCurrentGame();
+        void SetDealer(User dealer);
+        User GetDealer();
     }
 }

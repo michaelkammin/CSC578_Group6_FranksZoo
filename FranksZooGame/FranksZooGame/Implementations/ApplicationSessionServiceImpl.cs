@@ -9,15 +9,16 @@ namespace FranksZooGame.Implementations
 {
     public class ApplicationSessionServiceImpl : IApplicationSessionService
     {
-        private User[] _currentUsers;
+        private List<User> _currentUsers;
         private Game _currentGame;
+        private User _firstDealer;
 
-        public void SetCurrentUsers(User[] currentUsers)
+        public void SetCurrentUsers(List<User> currentUsers)
         {
             _currentUsers = currentUsers;
         }
 
-        public User[] GetCurrentUsers()
+        public List<User> GetCurrentUsers()
         {
             return _currentUsers;
         }
@@ -30,6 +31,16 @@ namespace FranksZooGame.Implementations
         public Game GetCurrentGame()
         {
             return _currentGame;
+        }
+
+        public void SetDealer(User dealer)
+        {
+            _firstDealer = dealer;
+        }
+
+        public User GetDealer()
+        {
+            return _firstDealer;
         }
     }
 }

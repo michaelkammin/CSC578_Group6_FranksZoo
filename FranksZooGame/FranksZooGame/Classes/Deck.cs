@@ -29,7 +29,7 @@ namespace FranksZooGame.Classes
             }
             for (int c = 0; c < 4; c++)
             {
-                Cards.Enqueue(new Card("Mosquitoes"));
+                Cards.Enqueue(new Card("Mosquito"));
             }
             Cards.Enqueue(new Card("Joker"));
         }

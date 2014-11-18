@@ -52,16 +52,32 @@
     <Compile Include="Classes\Winner.cs" />
     <Compile Include="Implementations\ApplicationComponentServiceImpl.cs" />
     <Compile Include="Implementations\ApplicationSessionServiceImpl.cs" />
+    <Compile Include="Implementations\CardComparer.cs" />
+    <Compile Include="Implementations\CrocodileComparer.cs" />
+    <Compile Include="Implementations\ElephantComparer.cs" />
+    <Compile Include="Implementations\FishComparer.cs" />
+    <Compile Include="Implementations\FoxComparer.cs" />
+    <Compile Include="Implementations\GameComponentService.cs" />
     <Compile Include="Implementations\GameComponentServiceImpl.cs" />
+    <Compile Include="Implementations\HedgehogComparer.cs" />
+    <Compile Include="Implementations\LionComparer.cs" />
+    <Compile Include="Implementations\MosquitoComparer.cs" />
+    <Compile Include="Implementations\MouseComparer.cs" />
+    <Compile Include="Implementations\PerchComparer.cs" />
+    <Compile Include="Implementations\PolarBearComparer.cs" />
+    <Compile Include="Implementations\SealComparer.cs" />
     <Compile Include="Implementations\UserComponentServiceImpl.cs" />
+    <Compile Include="Implementations\WhaleComparer.cs" />
     <Compile Include="Interfaces\IApplicationComponentService.cs" />
     <Compile Include="Interfaces\IApplicationSessionService.cs" />
+    <Compile Include="Interfaces\ICardComparer.cs" />
     <Compile Include="Interfaces\IGameComponentService.cs" />
     <Compile Include="Interfaces\IUserComponentService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Implementations\GameLog.txt" />
     <Content Include="Implementations\PlayerData.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

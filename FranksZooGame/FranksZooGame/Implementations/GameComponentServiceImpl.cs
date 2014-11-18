@@ -99,7 +99,7 @@ namespace FranksZooGame.Implementations
 
         public Play GetActivePlay(Game game)
         {
-            return game.activePlay;
+            return game.ActivePlay;
         }
 
         public bool IsValidPlay(List<Card> activePlay, List<Card> play)
@@ -515,14 +515,16 @@ namespace FranksZooGame.Implementations
         public void SetActivePlay(Card[] play, User user, Game game)
         {
             Play currentPlay = new Play(play.ToList(), user);
-            game.activePlay = currentPlay;
+            game.ActivePlay = currentPlay;
         }
 
-        public Card[] CheckPlayerHand(Card[] activePlay, Card[] play)
+        public List<Card> CheckPlayerHand(List<Card> activePlay, List<Card> playerHand)
         {
-            if(IsValidPlay(activePlay.ToList(), play.ToList()))
+
+
+            if (IsValidPlay(activePlay.ToList(), playerHand))
             {
-                return play;
+                return playerHand;
             }
             else
             {
@@ -568,7 +570,7 @@ namespace FranksZooGame.Implementations
 
                     applicationComponent.StartGame();
 
-                    User[] currentUsers = applicationComponent.GetCurrentUsers();
+                    List<User> currentUsers = applicationComponent.GetCurrentUsers();
 
                     foreach (User user in currentUsers)
                     {
@@ -580,6 +582,12 @@ namespace FranksZooGame.Implementations
                     Console.WriteLine("Thank You So Much For Playing");
                 }
             } while (command.ToUpper() != "NO" || command.ToUpper() != "N" || command.ToUpper() == "YES" || command.ToUpper() == "Y");
+        }
+
+
+        public void SetActivePlay(List<Card> play, User user, Game game)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -12,16 +12,9 @@ namespace FranksZooGame
     {
         static void Main(string[] args)
         {
-            IApplicationComponentService applicationComponent = new ApplicationComponentServiceImpl(new ApplicationSessionServiceImpl(), new UserComponentServiceImpl(), new GameComponentServiceImpl());
+            IApplicationComponentService applicationComponent = new ApplicationComponentServiceImpl(new ApplicationSessionServiceImpl(), new UserComponentServiceImpl(), new GameComponentService());
 
-            applicationComponent.StartGame();
-
-            User[] currentUsers = applicationComponent.GetCurrentUsers();
-
-            foreach (User user in currentUsers)
-            {
-                Console.WriteLine(user.ToString());
-            }
+            applicationComponent.RunGame();
         }
     }
 }

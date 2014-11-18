@@ -7,7 +7,8 @@ namespace FranksZooGame.Classes
 {
     public class Game
     {
-        public Play activePlay;
+        public Play ActivePlay { get; set; }
+
         private List<Card> _helpSet;
         private List<Play> _PlayHistory;
         private List<Trick> _tricks;
@@ -15,7 +16,8 @@ namespace FranksZooGame.Classes
 
         public Game()
         {
-            activePlay = null;
+            ActivePlay = null;
+
             _helpSet = new List<Card>();
             _PlayHistory = new List<Play>();
             _tricks = new List<Trick>();
@@ -26,30 +28,37 @@ namespace FranksZooGame.Classes
         {
             return _helpSet;
         }
+
         public void setHelpset(List<Card> list)
         {
             _helpSet = list;
         }
+
         public List<Play> getPlayHistory()
         {
             return _PlayHistory;
         }
+
         public void setHelpset(List<Play> list)
         {
             _PlayHistory = list;
         }
+
         public List<Trick> getTricks()
         {
             return _tricks;
         }
+
         public void setTricks(List<Trick> list)
         {
             _tricks = list;
         }
+
         public List<Winner> getWinners()
         {
             return _winners;
         }
+
         public void setWinners(List<Winner> list)
         {
             _winners = list;

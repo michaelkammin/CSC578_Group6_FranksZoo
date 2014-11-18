@@ -10,6 +10,9 @@ namespace FranksZooGame.Implementations
 {
     public class ApplicationComponentServiceImpl : IApplicationComponentService
     {
+        private const string START_FILE_PATH = @"C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\Implementations\PlayerData.txt";
+        private const string LOG_FILE_PATH = @"C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\Implementations\\GameLog.txt";
+
         private const int MIN_USER_COUNT = 4;
         private const int MAX_USER_COUNT = 4;
 
@@ -29,17 +32,17 @@ namespace FranksZooGame.Implementations
             return _userComponentService.IsUserNameValid(userName);
         }
 
-        public bool CheckMaxUserCount(User[] currentUsers)
+        public bool CheckMaxUserCount(List<User> currentUsers)
         {
             return _userComponentService.CheckMaxUserCount(currentUsers, MAX_USER_COUNT);
         }
 
-        public bool CanUserBeAdded(string userName,User[] currentUsers)
+        public bool CanUserBeAdded(string userName, List<User> currentUsers)
         {
             return this.IsUserNameValid(userName) && this.CheckMaxUserCount(currentUsers);
         }
 
-        public User[] AddUser(string userName, User[] currentUsers)
+        public List<User> AddUser(string userName, List<User> currentUsers)
         {
             if (CanUserBeAdded(userName,currentUsers))
             {
@@ -50,7 +53,7 @@ namespace FranksZooGame.Implementations
             return _applicationSessionService.GetCurrentUsers();
         }
 
-        public User[] AddUser(string userName, Card[] hand, User[] currentUsers)
+        public List<User> AddUser(string userName, List<Card> hand, List<User> currentUsers)
         {
             if (CanUserBeAdded(userName,currentUsers))
             {
@@ -61,17 +64,22 @@ namespace FranksZooGame.Implementations
             return _applicationSessionService.GetCurrentUsers();
         }
 
-        public User[] RemoveUser(string userName, User[] currentUsers)
+        public List<User> RemoveUser(string userName, List<User> currentUsers)
         {
             return _userComponentService.RemoveUser(userName, currentUsers);
         }
 
-        public User[] GetCurrentUsers()
+        public List<User> GetCurrentUsers()
         {
             return _applicationSessionService.GetCurrentUsers();
         }
 
         public Game StartGame()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Game StartGameFromFile()
         {
             /*
              * Steps to start game:
@@ -90,14 +98,16 @@ namespace FranksZooGame.Implementations
              * */
 
             Game currentGame = new Game();
-            User[] currentUsers = new User[MAX_USER_COUNT];
+            List<User> currentUsers = new List<User>();
 
-            string filePath = @"C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\Implementations\PlayerData.txt";
+            //string filePath = @"C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGame\Implementations\PlayerData.txt";
 
-            StreamReader file = new StreamReader(filePath);
+            StreamReader file = new StreamReader(START_FILE_PATH);
 
             string line;
             int counter = 0;
+
+            User dealer = null;
 
             while ((line = file.ReadLine()) != null)
             {
@@ -113,14 +123,13 @@ namespace FranksZooGame.Implementations
 
                         // these are are the player's cards
                         string[] cards = info[1].Split(',');
-                        Card[] playerCards = new Card[15];
+                        //Card[] playerCards = new Card[15];
+
+                        List<Card> playerCards = new List<Card>();
 
                         for (int i = 0; i < cards.Length;i++)
                         {
-                            Card card = new Card();
-                            card.CardName = cards[i];
-
-                            playerCards[i] = card;
+                            playerCards.Add(new Card(cards[i]));
                         }
 
                         AddUser(playerName, playerCards, currentUsers);
@@ -130,12 +139,14 @@ namespace FranksZooGame.Implementations
                     else
                     {
                         // dealer setting
+                        dealer = _userComponentService.FindUser(info[1], _applicationSessionService.GetCurrentUsers());
                     }
                 }
             }
 
             _applicationSessionService.SetCurrentGame(currentGame);
             _applicationSessionService.SetCurrentUsers(currentUsers);
+            _applicationSessionService.SetDealer(dealer);
 
             return currentGame;
         }
@@ -150,7 +161,7 @@ namespace FranksZooGame.Implementations
             return _gameComponentService.ShuffleDeck(deck);
         }
 
-        public User SelectRandomDealer(User[] currentUsers)
+        public User SelectRandomDealer(List<User> currentUsers)
         {
             Random random = new Random();
             int randomNumber = random.Next(0,currentUsers.Count());
@@ -158,64 +169,231 @@ namespace FranksZooGame.Implementations
             return currentUsers[randomNumber];
         }
 
-        public void DealCards(User[] players, Deck deck)
+        public void DealCards(List<User> players, Deck deck)
         {
-            throw new NotImplementedException();
+            while (deck.Cards.Count > 0)
+            {
+                foreach(User player in players)
+                {
+                    _userComponentService.AddCard(player, _gameComponentService.DealHand(deck));
+                }
+            }
         }
 
-        public User DetermineNextPlayer(User[] currentPlayers, User currentPlayer)
+        public User DetermineNextPlayer(List<User> currentPlayers, User currentPlayer)
         {
-            throw new NotImplementedException();
+            // if there is only one or zero players with cards in their hand, return null
+            if (currentPlayers.Where(x => x.UserHand.Count > 0).Count() <= 1) return null;
+
+            // get the index of the current player
+            int currentPlayerIndex = currentPlayers.IndexOf(currentPlayers.First(x => x.UserName == currentPlayer.UserName));
+
+            // set the index of the next player
+            int nextPlayerIndex = currentPlayerIndex + 1;
+
+            // if equal to the end of the list, set back to zero
+            if (nextPlayerIndex == MAX_USER_COUNT) nextPlayerIndex = 0;
+
+            //// find the next player with cards
+            //while (nextPlayerIndex != currentPlayerIndex)
+            //{
+            //    // return the next player if they have cards
+            //    if (currentPlayers[nextPlayerIndex].UserHand.Count > 0) return currentPlayers[nextPlayerIndex];
+
+            //    // increment to the next player
+            //    nextPlayerIndex++;
+
+            //    // if at the end of the list reset to zero
+            //    if (nextPlayerIndex == MAX_USER_COUNT) nextPlayerIndex = 0;
+            //}
+
+            //if (nextPlayerIndex == currentPlayerIndex) return null;
+
+            return currentPlayers[nextPlayerIndex];
         }
 
         public void StartHand(Game currentGame, User currentPlayer)
         {
-            throw new NotImplementedException();
+            LogAndWriteToConsole("Starting hand...\n\n");
+
+            // this is will bypass the shuffling if the player's hands are populated from the file.
+            if (currentPlayer.UserHand.Count == 0)
+            {
+                LogAndWriteToConsole("Shuffling cards...\n\n");
+                Deck deck = ShuffleDeck(CreateDeck());
+                LogAndWriteToConsole("Dealing cards...\n\n");
+                DealCards(_applicationSessionService.GetCurrentUsers(), deck);
+            }
+
+            StartRound(currentGame, currentPlayer);
         }
 
         public void StartRound(Game currentGame, User currentPlayer)
         {
-            throw new NotImplementedException();
+            LogAndWriteToConsole("Starting round...\n\n");
+
+            while (currentPlayer != null)
+            {
+                currentPlayer = TakeTurn(currentGame,currentPlayer);
+            }
+
+            Play activePlay = _gameComponentService.GetActivePlay(currentGame);
+            
+            // check to see if there are any active players left
+            User nextUser = DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), activePlay.ActiveUser);
+
+            EndRound(currentGame);
+
+            if (nextUser == null)
+                EndHand(currentGame, activePlay.ActiveUser);
+            else
+                StartRound(currentGame, activePlay.ActiveUser);
         }
 
         public User TakeTurn(Game currentGame, User currentPlayer)
         {
-            throw new NotImplementedException();
+            if (currentPlayer == null) return null;
+
+            Play activePlay = _gameComponentService.GetActivePlay(currentGame);
+
+            if (activePlay != null)
+            {
+                if (activePlay.ActiveUser.UserName == currentPlayer.UserName)
+                {
+                    LogAndWriteToConsole(activePlay.ActiveUser.UserName + " wins a trick!\n\n");
+                    //Trick trick = EndRound(currentGame);
+
+                    //AddTrick(trick, currentPlayer);
+
+                    //return DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), currentPlayer);
+                    return null;
+                }
+            }
+
+            if (currentPlayer.UserHand.Count == 0) return TakeTurn(currentGame, DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), currentPlayer));
+
+            List<Card> play = _gameComponentService.CheckPlayerHand(activePlay == null ? null : activePlay.Cards, currentPlayer.UserHand);
+
+            if (play != null)
+            {
+                _gameComponentService.SetActivePlay(play, currentPlayer, currentGame);
+
+                LogAndWriteToConsole(currentPlayer.UserName + " makes a play:\n\n");
+
+                foreach (Card card in play)
+                {
+                    LogAndWriteToConsole(card.CardName);
+                    _userComponentService.RemoveCard(currentPlayer, card);
+                }
+
+                LogAndWriteToConsole("\n");
+
+                if (currentPlayer.UserHand.Count == 0)
+                {
+                    int highestHandPosition = _userComponentService.FindHighestHandPosition(_applicationSessionService.GetCurrentUsers());
+                    currentPlayer.HandPosition = highestHandPosition + 1;
+                }
+
+                return TakeTurn(currentGame, DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), currentPlayer));
+            }
+            else
+            {
+                return TakeTurn(currentGame, PlayerPass(currentGame, currentPlayer));
+            }
         }
 
         public User PlayerPass(Game currentGame, User currentPlayer)
         {
-            throw new NotImplementedException();
+            LogAndWriteToConsole(currentPlayer.UserName + " passes...\n\n");
+            return DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), currentPlayer);
         }
 
         public Trick EndRound(Game currentGame)
         {
-            throw new NotImplementedException();
+            LogAndWriteToConsole("Round ends.\n\n");
+            return _gameComponentService.EndRound(currentGame);
         }
 
         public void AddTrick(Trick trick, User player)
         {
-            throw new NotImplementedException();
+            _userComponentService.AddTrick(player, trick);
         }
 
         public void EndHand(Game currentGame, User player)
         {
-            throw new NotImplementedException();
+            LogAndWriteToConsole("Hand ends...\n\n");
+
+            foreach(User user in _applicationSessionService.GetCurrentUsers())
+            {
+                if (user.UserHand.Count == 0 && user.HandPosition > 0)
+                {
+                    int score = _applicationSessionService.GetCurrentUsers().Count - (user.HandPosition - 1);
+
+                    _userComponentService.AddToCurrentScore(user, score);
+                }
+
+                _userComponentService.ResetUser(user);
+            }
         }
 
-        public User CalculateNextDealer(User[] currentPlayers, User winner)
+        public User CalculateNextDealer(List<User> currentPlayers, User winner)
         {
-            throw new NotImplementedException();
+            return _userComponentService.FindUserWithHighestScore(currentPlayers);
         }
 
         public void EndGame(Game currentGame)
         {
-            throw new NotImplementedException();
+            LogAndWriteToConsole("Game over!\n\nResults:\n\n");
+
+            foreach (User player in _applicationSessionService.GetCurrentUsers())
+            {
+                LogAndWriteToConsole(player.UserName + " score is " + player.CurrentScore.ToString() + ".\n");
+            }
         }
 
+        /// <summary>
+        /// Runs the game until a user has a score of 19 or higher.
+        /// </summary>
         public void RunGame()
         {
-            throw new NotImplementedException();
+            Game game = this.StartGameFromFile();
+
+            // create a game results log file, close the file so writes can occur
+            FileStream fileStream = File.Create(LOG_FILE_PATH);
+            fileStream.Close();
+
+            LogAndWriteToConsole("Game started at: " + DateTime.Now.ToString() + "\n\n");
+
+            LogAndWriteToConsole("Start game from file...\n\n");
+            LogAndWriteToConsole("Players are:\n\n");
+
+            foreach (User player in _applicationSessionService.GetCurrentUsers())
+            {
+                LogAndWriteToConsole(player.UserName + "\n");
+            }
+
+            LogAndWriteToConsole("\n");
+
+            LogAndWriteToConsole("Dealer is: " + _applicationSessionService.GetDealer().UserName + "\n\n");
+
+            User firstPlayer = this.DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), _applicationSessionService.GetDealer());
+
+            while (!_userComponentService.CheckForWinningScores(_applicationSessionService.GetCurrentUsers(),19,2))
+            {
+                StartHand(game, firstPlayer);
+            }
+
+            EndGame(game);
+        }
+    
+        public void LogAndWriteToConsole(string line)
+        {
+            using (StreamWriter file = new StreamWriter(LOG_FILE_PATH,true))
+            {
+                file.WriteLine(line);
+            }
+
+            Console.WriteLine(line);
         }
     }
 }

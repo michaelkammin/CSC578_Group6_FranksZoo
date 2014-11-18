@@ -17,7 +17,7 @@ namespace FranksZooGame.Classes
 
         public int HandPosition { get; set; } //Order in which players run out of cards in hands
 
-        public Trick Tricks { get; set; } //Tricks will hold all the cards from all the tricks this user got in the current hand 
+        public List<Trick> Tricks { get; set; } //Tricks will hold all the cards from all the tricks this user got in the current hand 
 
         public List<Card> playSet { get; set; }
 
@@ -26,11 +26,13 @@ namespace FranksZooGame.Classes
             UserName = "";
             UserHand = new List<Card>();
         }
+
         public User(string name)
         {
             UserName = name;
             UserHand = new List<Card>();
         }
+
         public User(string name, List<Card> cards)
         {
             UserName = name;
@@ -44,56 +46,69 @@ namespace FranksZooGame.Classes
             userString.Append("\n\n");
             userString.Append("Hand: ");
 
+            for (int i = 0; i < this.UserHand.Count; i++)
+            {
+                userString.Append(this.UserHand[i].CardName);
+                userString.Append("\n");
+            }
+
             userString.Append("\n\n");
 
             return userString.ToString();
         }
 
-        public override bool Equals(object obj)
-        {
-            if (obj is User)
-            {
-                User otherUser = (User)obj;
+        //public override bool Equals(object obj)
+        //{
+        //    if (obj is User)
+        //    {
+        //        User otherUser = (User)obj;
 
-                return otherUser.UserName == this.UserName;
-            }
+        //        return otherUser.UserName == this.UserName;
+        //    }
 
-            return false;
-        }
-        public void addCurrentScore(int points)
-        {
-            this.CurrentScore=this.CurrentScore+points;
-        }
-        public void addCard(List<Card> toAdd)
-        {
-            Card current= toAdd.First();
-            foreach(Card c in toAdd)
-            {
-                UserHand.Add(c);
-            }
-        }
-        public int getNumCards()
-        {
-            return UserHand.Count();
-        }
-        public void addTricks(Trick t)
-        {
-            foreach (Card c in t.getTrickList())
-            {
-                Tricks.getTrickList().Add(c);
-            }
-        }
-        public void resetTricks()
-        {
-            Tricks.getTrickList().Clear();
-        }
-        public void choosePlayCard(Card c)
-        {
-            playSet.Add(c);
-        }
-        public void removePlayCard(Card c)
-        {
-            playSet.Remove(c);
-        }
+        //    return false;
+        //}
+
+        //public void AddCurrentScore(int points)
+        //{
+        //    this.CurrentScore=this.CurrentScore+points;
+        //}
+
+        //public void AddCard(List<Card> toAdd)
+        //{
+        //    Card current= toAdd.First();
+        //    foreach(Card c in toAdd)
+        //    {
+        //        UserHand.Add(c);
+        //    }
+        //}
+
+        //public int GetNumCards()
+        //{
+        //    return UserHand.Count();
+        //}
+
+        //public void AddTricks(Trick t)
+        //{
+        //    foreach (Card c in t.getTrickList())
+        //    {
+        //        Tricks.getTrickList().Add(c);
+        //    }
+        //}
+
+        //public void ResetTricks()
+        //{
+        //    Tricks.getTrickList().Clear();
+        //}
+
+        //public void ChoosePlayCard(Card c)
+        //{
+        //    playSet.Add(c);
+        //}
+
+        //public void RemovePlayCard(Card c)
+        //{
+        //    playSet.Remove(c);
+        //}
     }
 }

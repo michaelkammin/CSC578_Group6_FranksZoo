@@ -194,21 +194,6 @@ namespace FranksZooGame.Implementations
             // if equal to the end of the list, set back to zero
             if (nextPlayerIndex == MAX_USER_COUNT) nextPlayerIndex = 0;
 
-            //// find the next player with cards
-            //while (nextPlayerIndex != currentPlayerIndex)
-            //{
-            //    // return the next player if they have cards
-            //    if (currentPlayers[nextPlayerIndex].UserHand.Count > 0) return currentPlayers[nextPlayerIndex];
-
-            //    // increment to the next player
-            //    nextPlayerIndex++;
-
-            //    // if at the end of the list reset to zero
-            //    if (nextPlayerIndex == MAX_USER_COUNT) nextPlayerIndex = 0;
-            //}
-
-            //if (nextPlayerIndex == currentPlayerIndex) return null;
-
             return currentPlayers[nextPlayerIndex];
         }
 
@@ -216,7 +201,7 @@ namespace FranksZooGame.Implementations
         {
             LogAndWriteToConsole("Starting hand...\n\n");
 
-            // this is will bypass the shuffling if the player's hands are populated from the file.
+            // bypass the shuffling if the player's hands are populated from the file.
             if (currentPlayer.UserHand.Count == 0)
             {
                 LogAndWriteToConsole("Shuffling cards...\n\n");
@@ -245,7 +230,7 @@ namespace FranksZooGame.Implementations
             EndRound(currentGame);
 
             if (nextUser == null)
-                EndHand(currentGame, activePlay.ActiveUser);
+                EndHand(currentGame);
             else
                 StartRound(currentGame, activePlay.ActiveUser);
         }
@@ -261,11 +246,7 @@ namespace FranksZooGame.Implementations
                 if (activePlay.ActiveUser.UserName == currentPlayer.UserName)
                 {
                     LogAndWriteToConsole(activePlay.ActiveUser.UserName + " wins a trick!\n\n");
-                    //Trick trick = EndRound(currentGame);
 
-                    //AddTrick(trick, currentPlayer);
-
-                    //return DetermineNextPlayer(_applicationSessionService.GetCurrentUsers(), currentPlayer);
                     return null;
                 }
             }
@@ -319,7 +300,7 @@ namespace FranksZooGame.Implementations
             _userComponentService.AddTrick(player, trick);
         }
 
-        public void EndHand(Game currentGame, User player)
+        public void EndHand(Game currentGame)
         {
             LogAndWriteToConsole("Hand ends...\n\n");
 
@@ -351,9 +332,6 @@ namespace FranksZooGame.Implementations
             }
         }
 
-        /// <summary>
-        /// Runs the game until a user has a score of 19 or higher.
-        /// </summary>
         public void RunGame()
         {
             Game game = this.StartGameFromFile();

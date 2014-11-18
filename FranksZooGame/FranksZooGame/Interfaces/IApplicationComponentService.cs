@@ -150,8 +150,7 @@ namespace FranksZooGame.Interfaces
         /// Ends a hand.
         /// </summary>
         /// <param name="currentGame">The game to end the hand in.</param>
-        /// <param name="player"></param>
-        void EndHand(Game currentGame, User player);
+        void EndHand(Game currentGame);
 
         /// <summary>
         /// Calculates the next dealer.

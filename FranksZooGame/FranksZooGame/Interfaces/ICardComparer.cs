@@ -6,7 +6,7 @@ using FranksZooGame.Classes;
 
 namespace FranksZooGame.Interfaces
 {
-    interface ICardComparer
+    public interface ICardComparer
     {
         /// <summary>
         /// Compares two cards.

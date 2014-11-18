@@ -8,16 +8,62 @@ namespace FranksZooGame.Interfaces
 {
     public interface IUserComponentService
     {
+        /// <summary>
+        /// Adds a user to the list of current users.
+        /// </summary>
+        /// <param name="userName">The user name of the user to add.</param>
+        /// <param name="currentUsers">The list of current users.</param>
+        /// <returns>The list of current users with the new user added.</returns>
         List<User> AddUser(string userName, List<User> currentUsers);
+
+        /// <summary>
+        /// Adds a user to the list of current users and populates the user's hand.
+        /// </summary>
+        /// <param name="userName">The user name of the users to add.</param>
+        /// <param name="hand">The user's hand.</param>
+        /// <param name="currentUsers">The list of current users.</param>
+        /// <returns>The list of current users with the new user added.</returns>
         List<User> AddUser(string userName, List<Card> hand, List<User> currentUsers);
-        int AvailableIndex(User[] currentUsers);
+
+        /// <summary>
+        /// Removes a user from the list of current users.
+        /// </summary>
+        /// <param name="userName">The user name of the user to remove.</param>
+        /// <param name="currentUsers">The list of current users.</param>
+        /// <returns>The list of current users with the user removed.</returns>
         List<User> RemoveUser(string userName, List<User> currentUsers);
+
+        /// <summary>
+        /// Finds a user based on user name.
+        /// </summary>
+        /// <param name="userName">The user name of the user to find.</param>
+        /// <param name="currrentUsers">The list of current users to search.</param>
+        /// <returns>The user with a matching user name.</returns>
         User FindUser(string userName, List<User> currrentUsers);
+
+        /// <summary>
+        /// Verifies user name is valid.
+        /// </summary>
+        /// <param name="userName">The user name to verify.</param>
+        /// <returns>True if the user name is valid, otherwise false.</returns>
         bool IsUserNameValid(string userName);
+
+        /// <summary>
+        /// Checks the count of the user list is below a maximum limit.
+        /// </summary>
+        /// <param name="currentUsers">The list of users to count.</param>
+        /// <param name="maxUserCount">The max user count.</param>
+        /// <returns>True if the number of users is less than or equal to the max user count, otherwise false.</returns>
         bool CheckMaxUserCount(List<User> currentUsers, int maxUserCount);
+
+        /// <summary>
+        /// Checks the count of the user list is above a minimum limit.
+        /// </summary>
+        /// <param name="currentUsers">The list of users to count.</param>
+        /// <param name="minUserCount">The min user count.</param>
+        /// <returns>True if the number of users is greater than or equal to the min user count, otherwise false.</returns>
         bool CheckMinUserCount(List<User> currentUsers, int minUserCount);
-        int FindHighestScore(List<User> currentUsers);
-        int FindSecondHighestScore(List<User> currentUsers, int highestScore);
+
         User FindUserWithHighestScore(List<User> currentUsers);
 
         bool CheckForWinningScores(List<User> currentUsers,int scoreToCheck,int numberOfPlayers);

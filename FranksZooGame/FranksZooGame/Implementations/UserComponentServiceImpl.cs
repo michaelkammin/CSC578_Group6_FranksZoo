@@ -25,14 +25,6 @@ namespace FranksZooGame.Implementations
 
         public List<User> RemoveUser(string userName, List<User> currentUsers)
         {
-            //for (int i = 0; i< currentUsers.Length;i++)
-            //{
-            //    if (currentUsers[i].UserName.Equals(userName))
-            //    {
-            //        Array.Clear(currentUsers,i,1);
-            //    }
-            //}
-
             currentUsers.Remove(currentUsers.First(x => x.UserName == userName));
 
             return currentUsers;
@@ -62,18 +54,6 @@ namespace FranksZooGame.Implementations
             return currrentUsers.First(x => x.UserName == userName);
         }
 
-        public int FindHighestScore(List<User> currentUsers)
-        {
-            int highestScore = 0;
-
-            foreach (User user in currentUsers)
-            {
-                if (user.CurrentScore > highestScore) highestScore = user.CurrentScore;
-            }
-            
-            return highestScore;
-        }
-
         public void AddCard(User user, Card card)
         {
             user.UserHand.Add(card);
@@ -98,11 +78,6 @@ namespace FranksZooGame.Implementations
         public void ResetTricks(User user)
         {
             user.Tricks.Clear();
-        }
-
-        public int AvailableIndex(User[] currentUsers)
-        {
-            throw new NotImplementedException();
         }
 
         public User FindUserWithHighestScore(List<User> currentUsers)
@@ -174,18 +149,6 @@ namespace FranksZooGame.Implementations
         {
             user.HandPosition = 0;
             user.UserHand.Clear();
-        }
-
-        public int FindSecondHighestScore(List<User> currentUsers, int highestScore)
-        {
-            int secondHighestScore = 0;
-
-            foreach (User user in currentUsers)
-            {
-                if (user.CurrentScore > secondHighestScore && user.CurrentScore <= highestScore) secondHighestScore = user.CurrentScore;
-            }
-
-            return secondHighestScore;
         }
 
         public bool CheckForWinningScores(List<User> currentUsers, int scoreToCheck, int numberOfPlayers)

@@ -8,14 +8,25 @@ namespace FranksZooGame.Interfaces
 {
     public interface IGameComponentService
     {
+        /// <summary>
+        /// Creates a deck.
+        /// </summary>
+        /// <returns>The deck created.</returns>
         Deck CreateDeck();
+
+        /// <summary>
+        /// Shuffles a deck.
+        /// </summary>
+        /// <param name="deck">The deck to shuffle.</param>
+        /// <returns>The shuffled deck.</returns>
         Deck ShuffleDeck(Deck deck);
+
         Card DealHand(Deck deck);
         List<User> StartHand(Deck deck, List<User> users, Game game);
         List<User> StartRound(List<User> Users, Game game);
         Play GetActivePlay(Game game);
         bool IsValidPlay(List<Card> activePlay, List<Card> play);
-        //bool IsValidPlay(Card[] activePlay, Card[] play);
+
         void SetActivePlay(List<Card> play, User user, Game game);
 
         /// <summary>

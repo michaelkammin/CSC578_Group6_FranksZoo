@@ -1,4 +1,4 @@
-Game started at: 11/17/2014 8:20:42 PM
+Game started at: 11/19/2014 7:56:44 PM
 
 
 Start game from file...
@@ -616,114 +616,6 @@ Starting round...
 Player_2 makes a play:
 
 
-Fox
-Fox
-Fox
-
-
-Player_3 makes a play:
-
-
-Crocodile
-Crocodile
-Joker
-
-
-Player_4 makes a play:
-
-
-Elephant
-Elephant
-Elephant
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Crocodile
-Crocodile
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Perch
-Perch
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mosquito
-Mosquito
-Mosquito
-
-
-Player_2 makes a play:
-
-
 Hedgehog
 Hedgehog
 Hedgehog
@@ -750,1653 +642,22 @@ Starting round...
 Player_2 makes a play:
 
 
-Lion
-Lion
-Lion
+Seal
+Seal
+Seal
 
 
 Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Whale
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Polar Bear
-
-
-Player_3 makes a play:
-
-
-Elephant
-
-
-Player_4 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_1 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Seal
-Seal
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
-Fish
-
-
-Player_4 passes...
-
-
-Player_1 makes a play:
-
-
-Perch
-Perch
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fox
-Fox
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Lion
-Lion
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fish
-Fish
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
 
 
 Player_4 makes a play:
 
 
 Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_2 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Elephant
-
-
-Player_2 makes a play:
-
-
-Mouse
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Perch
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mosquito
-
-
-Round ends.
-
-
-Hand ends...
-
-
-Starting hand...
-
-
-Shuffling cards...
-
-
-Dealing cards...
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Polar Bear
-Polar Bear
-Polar Bear
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 makes a play:
-
-
-Elephant
-Elephant
-Elephant
-Elephant
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Seal
-Seal
-
-
-Player_2 makes a play:
-
-
-Whale
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-Hedgehog
-Hedgehog
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_4 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_3 makes a play:
-
-
-Lion
-Lion
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
-Fish
-
-
-Player_4 makes a play:
-
-
-Perch
-Perch
-Perch
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fish
-Fish
-
-
-Player_1 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fox
-Fox
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Lion
-Lion
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 makes a play:
-
-
-Polar Bear
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Whale
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mouse
-
-
-Player_4 makes a play:
-
-
-Fox
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Lion
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Seal
-Seal
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Perch
-
-
-Player_3 makes a play:
-
-
-Perch
-Joker
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mosquito
-
-
-Player_4 makes a play:
-
-
-Mouse
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Fox
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mosquito
-
-
-Player_1 makes a play:
-
-
-Fish
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mouse
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Fox
-
-
-Round ends.
-
-
-Hand ends...
-
-
-Starting hand...
-
-
-Shuffling cards...
-
-
-Dealing cards...
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Fish
-Fish
-Fish
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mouse
-Mouse
-Mouse
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-Hedgehog
-Hedgehog
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fox
-Fox
-
-
-Player_1 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Elephant
-Elephant
-Mosquito
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Elephant
-Joker
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Whale
-Whale
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Fox
-
-
-Player_3 makes a play:
-
-
-Lion
-Lion
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Perch
-Perch
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Lion
-Lion
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fish
-
-
-Player_1 makes a play:
-
-
-Seal
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Polar Bear
-
-
-Player_4 makes a play:
-
-
-Elephant
-
-
-Player_1 makes a play:
-
-
-Mouse
-
-
-Player_2 makes a play:
-
-
-Seal
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Perch
-
-
-Player_3 makes a play:
-
-
-Perch
-Perch
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mouse
-
-
-Player_1 makes a play:
-
-
-Crocodile
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fox
-Fox
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mosquito
-
-
-Player_2 makes a play:
-
-
-Hedgehog
-
-
-Player_3 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mosquito
-
-
-Player_1 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-
-
-Round ends.
-
-
-Hand ends...
-
-
-Starting hand...
-
-
-Shuffling cards...
-
-
-Dealing cards...
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Elephant
-Elephant
-
-
-Player_3 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_4 makes a play:
-
-
-Seal
-Seal
-Seal
-
-
-Player_1 makes a play:
-
-
-Polar Bear
-Polar Bear
-Polar Bear
-Polar Bear
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_2 makes a play:
-
-
-Seal
-Seal
-
-
-Player_3 makes a play:
-
-
 Whale
 Joker
 
 
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Lion
-Lion
-
-
-Player_4 makes a play:
-
-
-Elephant
-Elephant
-
-
 Player_1 passes...
 
 
@@ -2416,527 +677,26 @@ Starting round...
 
 
 Player_4 makes a play:
-
-
-Lion
-Lion
-
-
-Player_1 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fox
-
-
-Player_2 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Perch
-Perch
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Whale
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Hedgehog
-
-
-Player_3 makes a play:
-
-
-Fox
-Fox
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
-Fish
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Perch
-
-
-Player_4 makes a play:
-
-
-Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Fox
-
-
-Player_3 makes a play:
-
-
-Crocodile
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mosquito
-
-
-Player_4 makes a play:
-
-
-Fish
-
-
-Player_1 makes a play:
-
-
-Perch
-
-
-Player_2 passes...
-
-
-Player_4 makes a play:
-
-
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fox
-
-
-Player_1 makes a play:
-
-
-Lion
-
-
-Player_2 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Hedgehog
-
-
-Player_2 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Crocodile
-
-
-Player_2 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fish
-
-
-Player_2 passes...
-
-
-Player_4 makes a play:
-
-
-Perch
-
-
-Player_1 makes a play:
-
-
-Whale
-
-
-Player_2 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
 
 
 Mouse
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mosquito
-
-
-Round ends.
-
-
-Hand ends...
-
-
-Starting hand...
-
-
-Shuffling cards...
-
-
-Dealing cards...
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mosquito
-Mosquito
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-Hedgehog
-Hedgehog
-
-
-Player_4 makes a play:
-
-
-Fox
-Fox
-Fox
+Mouse
 
 
 Player_1 makes a play:
-
-
-Polar Bear
-Polar Bear
-Joker
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fish
-Fish
-
-
-Player_2 makes a play:
 
 
 Seal
 Seal
 
 
+Player_2 makes a play:
+
+
+Whale
+Whale
+
+
 Player_3 passes...
 
 
@@ -2958,116 +718,22 @@ Starting round...
 Player_2 makes a play:
 
 
-Mouse
-Mouse
-
-
-Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Perch
-Perch
-Perch
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
 Fish
 Fish
 
 
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
 Player_3 makes a play:
+
+
+Crocodile
+Crocodile
+Crocodile
+
+
+Player_4 makes a play:
 
 
 Elephant
-
-
-Player_4 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_1 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
 Elephant
 Mosquito
 
@@ -3126,223 +792,20 @@ Player_1 makes a play:
 
 
 Mouse
-
-
-Player_2 makes a play:
-
-
-Lion
-Lion
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Elephant
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Hedgehog
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 makes a play:
-
-
-Fox
-
-
-Player_2 makes a play:
-
-
-Polar Bear
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-
-
-Player_1 passes...
+Mouse
 
 
 Player_2 makes a play:
 
 
 Fox
+Fox
 
 
 Player_3 makes a play:
 
 
-Polar Bear
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mosquito
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
+Lion
 Lion
 
 
@@ -3364,339 +827,18 @@ Round ends.
 Starting round...
 
 
-Player_4 makes a play:
-
-
-Polar Bear
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Perch
-
-
-Round ends.
-
-
-Hand ends...
-
-
-Starting hand...
-
-
-Shuffling cards...
-
-
-Dealing cards...
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Hedgehog
-Hedgehog
-Hedgehog
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Seal
-Seal
-
-
 Player_3 makes a play:
 
 
-Polar Bear
-Polar Bear
+Mosquito
+Mosquito
 
 
 Player_4 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_1 makes a play:
-
-
-Elephant
-Elephant
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Elephant
-Elephant
-Mosquito
-Joker
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
 
 
 Fish
 Fish
-
-
-Player_4 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Lion
-Lion
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Whale
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 makes a play:
-
-
-Whale
-Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-
-
-Player_1 makes a play:
-
-
-Fox
-Fox
-
-
-Player_2 makes a play:
-
-
-Lion
-Lion
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Fox
-
-
-Player_3 makes a play:
-
-
-Crocodile
-
-
-Player_4 passes...
 
 
 Player_1 makes a play:
@@ -3727,32 +869,7 @@ Starting round...
 Player_1 makes a play:
 
 
-Mouse
-Mouse
-Mouse
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
+Polar Bear
 Polar Bear
 
 
@@ -3777,20 +894,17 @@ Starting round...
 Player_1 makes a play:
 
 
-Fish
+Mosquito
 
 
-Player_2 makes a play:
-
-
-Perch
+Player_2 passes...
 
 
 Player_3 makes a play:
 
 
-Perch
-Perch
+Hedgehog
+Hedgehog
 
 
 Player_4 passes...
@@ -3814,7 +928,79 @@ Starting round...
 Player_3 makes a play:
 
 
-Hedgehog
+Fox
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fox
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+
+
+Player_3 makes a play:
+
+
+Elephant
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mouse
 
 
 Player_4 makes a play:
@@ -3853,133 +1039,17 @@ Player_1 makes a play:
 Perch
 
 
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 makes a play:
-
-
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
 Player_2 makes a play:
-
-
-Fish
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
 
 
 Perch
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fish
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mosquito
-
-
-Round ends.
-
-
-Hand ends...
-
-
-Starting hand...
-
-
-Shuffling cards...
-
-
-Dealing cards...
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Fish
-Fish
-Fish
-Fish
+Perch
 
 
 Player_3 passes...
 
 
 Player_4 passes...
-
-
-Player_1 passes...
 
 
 Player_2 wins a trick!
@@ -3991,125 +1061,13 @@ Round ends.
 Starting round...
 
 
-Player_2 makes a play:
-
-
-Perch
-Perch
-
-
 Player_3 makes a play:
 
 
 Polar Bear
-Polar Bear
-
-
-Player_4 makes a play:
-
-
-Elephant
-Elephant
-Elephant
-Elephant
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_1 makes a play:
-
-
-Fox
-Fox
-Fox
-Fox
-
-
-Player_2 passes...
-
-
-Player_3 passes...
 
 
 Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Lion
-Lion
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Mouse
-Joker
-
-
-Player_3 makes a play:
-
-
-Lion
-Lion
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
 
 
 Player_3 wins a trick!
@@ -4125,157 +1083,9 @@ Player_3 makes a play:
 
 
 Perch
-Perch
-
-
-Player_4 makes a play:
-
-
-Whale
-Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Fox
-
-
-Player_1 makes a play:
-
-
-Polar Bear
-
-
-Player_2 makes a play:
-
-
-Whale
-
-
-Player_3 passes...
 
 
 Player_4 passes...
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mosquito
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
 
 
 Player_3 wins a trick!
@@ -4285,217 +1095,12 @@ Round ends.
 
 
 Starting round...
-
-
-Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Crocodile
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mouse
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Polar Bear
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Lion
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Hedgehog
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mosquito
 
 
 Player_3 makes a play:
 
 
 Fish
-
-
-Player_4 passes...
-
-
-Player_1 makes a play:
-
-
-Crocodile
-
-
-Player_2 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Mouse
-
-
-Player_2 makes a play:
-
-
-Crocodile
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Seal
-
-
-Player_4 makes a play:
-
-
-Polar Bear
 
 
 Round ends.
@@ -4546,11 +1151,42 @@ Starting round...
 Player_2 makes a play:
 
 
-Whale
-Whale
+Polar Bear
+Polar Bear
+Polar Bear
 
 
-Player_3 passes...
+Player_3 makes a play:
+
+
+Elephant
+Mosquito
+Joker
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Hedgehog
+Hedgehog
 
 
 Player_4 passes...
@@ -4559,9 +1195,9 @@ Player_4 passes...
 Player_1 makes a play:
 
 
-Whale
-Whale
-Joker
+Hedgehog
+Hedgehog
+Hedgehog
 
 
 Player_2 passes...
@@ -4585,15 +1221,123 @@ Starting round...
 Player_1 makes a play:
 
 
-Perch
-Perch
-Perch
+Whale
+Whale
 
 
 Player_2 passes...
 
 
 Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fish
+Fish
+
+
+Player_2 makes a play:
+
+
+Whale
+Whale
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_4 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Lion
+Lion
+Lion
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
 
 
 Player_4 makes a play:
@@ -4625,9 +1369,8 @@ Starting round...
 Player_4 makes a play:
 
 
-Fox
-Fox
-Fox
+Mosquito
+Mosquito
 
 
 Player_1 passes...
@@ -4639,7 +1382,328 @@ Player_2 passes...
 Player_3 makes a play:
 
 
+Fish
+Fish
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Perch
+Perch
+
+
+Player_3 makes a play:
+
+
+Seal
+Seal
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mouse
+
+
+Player_4 makes a play:
+
+
+Fox
+
+
+Player_1 makes a play:
+
+
+Fox
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
 Elephant
+Elephant
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fish
+
+
+Player_1 makes a play:
+
+
+Crocodile
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mosquito
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Mouse
+
+
+Player_2 makes a play:
+
+
+Lion
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Mouse
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Perch
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Seal
+Seal
+Seal
+Seal
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_3 makes a play:
+
+
 Elephant
 Mosquito
 
@@ -4647,111 +1711,12 @@ Mosquito
 Player_4 passes...
 
 
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
-Fish
-Fish
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
-
-
-Fox
-Fox
-
-
-Player_4 makes a play:
-
-
-Elephant
-Elephant
-Elephant
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mouse
-
-
 Player_1 makes a play:
 
 
-Polar Bear
-Polar Bear
+Elephant
+Elephant
+Mosquito
 
 
 Player_2 passes...
@@ -4775,15 +1740,138 @@ Starting round...
 Player_1 makes a play:
 
 
-Mouse
-Mouse
+Fish
+Fish
+Fish
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Crocodile
+Crocodile
+Crocodile
+Crocodile
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+Hedgehog
+Hedgehog
+
+
+Player_1 makes a play:
+
+
+Fox
+Fox
+Joker
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Lion
+Lion
+Lion
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Fish
+Fish
+
+
+Player_4 makes a play:
+
+
+Whale
+Whale
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+
+
+Player_1 makes a play:
+
+
+Whale
 
 
 Player_2 makes a play:
 
 
-Lion
-Lion
+Whale
+Whale
 
 
 Player_3 passes...
@@ -4807,8 +1895,28 @@ Starting round...
 Player_2 makes a play:
 
 
+Mosquito
+Mosquito
+
+
+Player_3 makes a play:
+
+
 Hedgehog
 Hedgehog
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
 
 
 Player_3 passes...
@@ -4830,64 +1938,41 @@ Starting round...
 
 
 Player_2 makes a play:
+
+
+Elephant
+
+
+Player_3 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
 
 
 Perch
-
-
-Player_3 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Lion
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Hedgehog
+Perch
 
 
 Player_4 passes...
@@ -4914,6 +1999,207 @@ Player_3 makes a play:
 Crocodile
 
 
+Player_4 makes a play:
+
+
+Elephant
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+Perch
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Mouse
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+
+
+Player_4 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fox
+
+
+Player_2 makes a play:
+
+
+Lion
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Lion
+Lion
+Lion
+
+
+Player_3 makes a play:
+
+
+Elephant
+Elephant
+Mosquito
+
+
+Player_4 makes a play:
+
+
+Mouse
+Mouse
+Joker
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+Seal
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Whale
+Whale
+Whale
+
+
 Player_4 passes...
 
 
@@ -4932,10 +2218,1450 @@ Round ends.
 Starting round...
 
 
+Player_3 makes a play:
+
+
+Fish
+Fish
+Fish
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+
+
 Player_4 makes a play:
 
 
+Elephant
+
+
+Player_1 makes a play:
+
+
+Mouse
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
 Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+Perch
+
+
+Player_2 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+Fish
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Elephant
+
+
+Player_3 makes a play:
+
+
+Mouse
+
+
+Player_4 makes a play:
+
+
+Crocodile
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Mosquito
+Mosquito
+
+
+Player_1 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fox
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Crocodile
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Seal
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+
+
+Player_4 makes a play:
+
+
+Whale
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Perch
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+
+
+Player_2 makes a play:
+
+
+Fox
+
+
+Player_3 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Mouse
+
+
+Player_3 makes a play:
+
+
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Perch
+
+
+Player_2 makes a play:
+
+
+Seal
+
+
+Player_3 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Hedgehog
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Whale
+Whale
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Lion
+Lion
+
+
+Player_3 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_4 makes a play:
+
+
+Mouse
+Mouse
+Mouse
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+Crocodile
+Crocodile
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Perch
+Perch
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_2 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_3 makes a play:
+
+
+Mouse
+Joker
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_4 makes a play:
+
+
+Whale
+Whale
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Mosquito
+Mosquito
+
+
+Player_1 makes a play:
+
+
+Fish
+Fish
+Fish
+Fish
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Seal
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Elephant
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Mouse
+
+
+Player_3 makes a play:
+
+
+Fox
+
+
+Player_4 makes a play:
+
+
+Crocodile
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+
+
+Player_1 makes a play:
+
+
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Lion
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Fish
+
+
+Player_4 makes a play:
+
+
+Perch
+
+
+Player_1 makes a play:
+
+
+Crocodile
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Perch
+Perch
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Seal
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Seal
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Mosquito
+Mosquito
+Mosquito
+Mosquito
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+Fish
+
+
+Player_3 makes a play:
+
+
+Seal
+Seal
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Whale
+Whale
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fox
+
+
+Player_3 makes a play:
+
+
+Fox
+Joker
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Crocodile
+Crocodile
+Crocodile
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Lion
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fox
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_4 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fish
+Fish
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Perch
+Perch
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+
+
+Player_4 makes a play:
+
+
+Elephant
+
+
+Player_1 makes a play:
+
+
+Mouse
+
+
+Player_2 makes a play:
+
+
+Crocodile
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Elephant
+
+
+Player_2 makes a play:
+
+
+Mouse
+
+
+Player_3 makes a play:
+
+
+Lion
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Elephant
+
+
+Player_3 makes a play:
+
+
+Mouse
+
+
+Player_4 makes a play:
+
+
+Seal
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Hedgehog
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Fox
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+
+
+Player_3 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Hedgehog
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+Perch
 
 
 Player_1 passes...
@@ -4977,62 +3703,28 @@ Starting round...
 Player_4 makes a play:
 
 
-Perch
+Lion
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
 
 
 Player_1 makes a play:
 
 
 Seal
-
-
-Player_2 makes a play:
-
-
-Polar Bear
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mosquito
-
-
-Player_1 makes a play:
-
-
-Mosquito
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Lion
 
 
 Player_2 passes...
@@ -5051,6 +3743,1059 @@ Player_1 makes a play:
 
 
 Fish
+
+
+Player_2 makes a play:
+
+
+Seal
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Hedgehog
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Seal
+Seal
+Seal
+
+
+Player_3 makes a play:
+
+
+Whale
+Whale
+Whale
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Elephant
+Elephant
+Joker
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fish
+Fish
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mosquito
+Mosquito
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+Fox
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fox
+Fox
+
+
+Player_1 makes a play:
+
+
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Elephant
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Mouse
+
+
+Player_1 makes a play:
+
+
+Crocodile
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+Perch
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Perch
+
+
+Player_3 makes a play:
+
+
+Seal
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Mosquito
+Mosquito
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fish
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Perch
+
+
+Player_4 makes a play:
+
+
+Seal
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+Fox
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Lion
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fish
+Fish
+
+
+Player_2 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_3 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Whale
+Whale
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fish
+Fish
+
+
+Player_1 makes a play:
+
+
+Perch
+Perch
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_4 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_3 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Seal
+Seal
+Seal
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Whale
+Joker
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_2 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Perch
+
+
+Player_3 makes a play:
+
+
+Crocodile
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Elephant
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Mouse
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+
+
+Player_2 makes a play:
+
+
+Whale
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+
+
+Player_3 makes a play:
+
+
+Perch
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Lion
+
+
+Player_4 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Fox
+
+
+Player_4 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mosquito
+
+
+Player_4 passes...
+
+
+Player_2 makes a play:
+
+
+Hedgehog
 
 
 Round ends.
@@ -5083,139 +4828,191 @@ Player_3 makes a play:
 
 
 Elephant
+Elephant
+Elephant
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+Polar Bear
+Polar Bear
+
+
+Player_2 makes a play:
+
+
+Elephant
+Elephant
 Mosquito
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+Fish
+
+
+Player_3 makes a play:
+
+
+Perch
+Perch
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+
+
+Player_1 makes a play:
+
+
+Whale
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_4 makes a play:
+
+
+Fox
 Joker
 
 
-Player_4 makes a play:
-
-
-Mouse
-Mouse
-Mouse
-
-
-Player_1 makes a play:
-
-
-Hedgehog
-Hedgehog
-Hedgehog
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fox
-Fox
-
-
-Player_2 makes a play:
-
-
-Lion
-Lion
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_1 makes a play:
-
-
-Elephant
-Elephant
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Seal
-Seal
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
 Player_1 passes...
 
 
@@ -5237,46 +5034,22 @@ Starting round...
 Player_4 makes a play:
 
 
-Fish
-Fish
+Mouse
 
 
-Player_1 passes...
+Player_1 makes a play:
 
 
-Player_2 makes a play:
-
-
-Perch
-Perch
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Seal
-Seal
-
-
-Player_1 passes...
+Hedgehog
 
 
 Player_2 passes...
 
 
-Player_3 passes...
+Player_3 makes a play:
 
 
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
+Fox
 
 
 Player_4 makes a play:
@@ -5288,22 +5061,13 @@ Crocodile
 Player_1 passes...
 
 
-Player_2 makes a play:
-
-
-Elephant
+Player_2 passes...
 
 
 Player_3 passes...
 
 
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
+Player_4 wins a trick!
 
 
 Round ends.
@@ -5312,103 +5076,16 @@ Round ends.
 Starting round...
 
 
-Player_2 makes a play:
+Player_4 makes a play:
 
 
-Mouse
-Mouse
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Fox
-Fox
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Fish
-
-
-Player_3 makes a play:
-
-
-Crocodile
-
-
-Player_4 passes...
+Mosquito
 
 
 Player_1 passes...
 
 
 Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
 
 
 Player_3 makes a play:
@@ -5439,8 +5116,7 @@ Starting round...
 Player_3 makes a play:
 
 
-Perch
-Perch
+Lion
 
 
 Player_4 passes...
@@ -5503,9 +5179,6 @@ Player_1 passes...
 Player_2 passes...
 
 
-Player_3 passes...
-
-
 Player_4 wins a trick!
 
 
@@ -5518,19 +5191,22 @@ Starting round...
 Player_4 makes a play:
 
 
-Lion
+Fish
 
 
-Player_1 passes...
+Player_1 makes a play:
+
+
+Crocodile
 
 
 Player_2 passes...
 
 
-Player_3 passes...
+Player_4 passes...
 
 
-Player_4 wins a trick!
+Player_1 wins a trick!
 
 
 Round ends.
@@ -5539,22 +5215,97 @@ Round ends.
 Starting round...
 
 
-Player_4 makes a play:
+Player_1 makes a play:
 
 
 Mosquito
 
 
+Player_2 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fox
+
+
+Player_2 makes a play:
+
+
+Lion
+
+
+Player_4 passes...
+
+
 Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Perch
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Seal
 
 
 Player_2 passes...
 
 
-Player_3 passes...
+Player_4 passes...
 
 
-Player_4 wins a trick!
+Player_1 wins a trick!
 
 
 Round ends.
@@ -5572,13 +5323,10 @@ Perch
 Player_2 makes a play:
 
 
-Polar Bear
+Seal
 
 
-Player_3 passes...
-
-
-Player_1 passes...
+Player_4 passes...
 
 
 Player_2 wins a trick!
@@ -5590,52 +5338,10 @@ Round ends.
 Starting round...
 
 
-Player_3 makes a play:
+Player_2 makes a play:
 
 
-Polar Bear
-
-
-Player_1 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fox
-
-
-Player_1 makes a play:
-
-
-Polar Bear
-
-
-Player_3 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Lion
+Mosquito
 
 
 Round ends.
@@ -5659,19 +5365,232 @@ Starting round...
 Player_2 makes a play:
 
 
+Hedgehog
+Hedgehog
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
 Fox
 Fox
-Fox
+
+
+Player_1 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_2 makes a play:
+
+
+Elephant
+Mosquito
 
 
 Player_3 makes a play:
 
 
-Crocodile
-Crocodile
+Mouse
+Mouse
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+
+
+Player_1 makes a play:
+
+
+Whale
+Whale
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Lion
 Joker
 
 
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+Hedgehog
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+
+
+Player_3 makes a play:
+
+
+Lion
+Lion
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Fish
+Fish
+Fish
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Seal
+Seal
+
+
 Player_4 passes...
 
 
@@ -5681,9 +5600,8 @@ Player_1 passes...
 Player_2 makes a play:
 
 
-Elephant
-Elephant
-Mosquito
+Polar Bear
+Polar Bear
 
 
 Player_3 passes...
@@ -5707,9 +5625,8 @@ Starting round...
 Player_2 makes a play:
 
 
-Fish
-Fish
-Fish
+Perch
+Perch
 
 
 Player_3 passes...
@@ -5733,15 +5650,13 @@ Starting round...
 Player_2 makes a play:
 
 
-Polar Bear
-Polar Bear
+Crocodile
 
 
 Player_3 makes a play:
 
 
 Elephant
-Mosquito
 
 
 Player_4 passes...
@@ -5751,230 +5666,79 @@ Player_1 makes a play:
 
 
 Mouse
-Mouse
 
 
 Player_2 passes...
 
 
 Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_1 makes a play:
-
-
-Whale
-Whale
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Crocodile
-Crocodile
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Lion
-Lion
-
-
-Player_1 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Fish
-
-
-Player_2 makes a play:
-
-
-Seal
-
-
-Player_3 makes a play:
-
-
-Polar Bear
-
-
-Player_4 makes a play:
-
-
-Whale
-Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Perch
-Perch
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-
-
-Player_1 makes a play:
 
 
 Fox
 
 
-Player_2 makes a play:
+Player_4 makes a play:
 
 
 Lion
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+Perch
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Whale
 
 
 Player_3 passes...
@@ -5998,167 +5762,22 @@ Starting round...
 Player_2 makes a play:
 
 
-Mouse
+Fish
 
 
 Player_3 makes a play:
 
 
-Lion
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-Hedgehog
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Mouse
+Perch
 
 
 Player_4 makes a play:
-
-
-Crocodile
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mouse
-
-
-Player_1 makes a play:
-
-
-Lion
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Seal
-
-
-Player_2 passes...
-
-
-Player_3 makes a play:
 
 
 Whale
 
 
-Player_4 passes...
-
-
 Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Perch
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 passes...
-
-
-Player_2 passes...
 
 
 Player_3 passes...
@@ -6173,19 +5792,11 @@ Round ends.
 Starting round...
 
 
-Player_4 makes a play:
-
-
-Fish
-
-
 Player_1 makes a play:
 
 
-Perch
-
-
-Player_2 passes...
+Mosquito
+Mosquito
 
 
 Player_3 passes...
@@ -6200,10 +5811,82 @@ Round ends.
 Starting round...
 
 
-Player_2 makes a play:
+Player_1 makes a play:
 
 
-Perch
+Hedgehog
+
+
+Player_3 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Lion
+
+
+Player_3 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fish
+
+
+Player_3 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Seal
 
 
 Round ends.
@@ -6227,15 +5910,102 @@ Starting round...
 Player_2 makes a play:
 
 
-Crocodile
-Crocodile
-Crocodile
+Hedgehog
+Hedgehog
+Hedgehog
+Hedgehog
 
 
 Player_3 passes...
 
 
 Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Perch
+Perch
+
+
+Player_3 makes a play:
+
+
+Seal
+Seal
+
+
+Player_4 makes a play:
+
+
+Whale
+Whale
+Whale
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Mosquito
+Mosquito
+Mosquito
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+Joker
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
 
 
 Player_1 makes a play:
@@ -6267,250 +6037,952 @@ Starting round...
 Player_1 makes a play:
 
 
+Polar Bear
+Polar Bear
+
+
+Player_2 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_1 makes a play:
+
+
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fox
+Fox
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
 Fish
 Fish
+Fish
+Fish
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Lion
+
+
+Player_4 makes a play:
+
+
+Elephant
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Mouse
+
+
+Player_4 makes a play:
+
+
+Lion
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Seal
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+
+
+Player_2 makes a play:
+
+
+Crocodile
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+
+
+Player_3 makes a play:
+
+
+Perch
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+
+
+Player_1 makes a play:
+
+
+Seal
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Lion
+
+
+Player_3 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Seal
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Hedgehog
+Hedgehog
+Hedgehog
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fox
+Fox
+
+
+Player_3 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_2 makes a play:
+
+
+Seal
+Seal
+
+
+Player_3 makes a play:
+
+
+Whale
+Whale
+Whale
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mosquito
+Mosquito
+
+
+Player_4 makes a play:
+
+
+Fish
+Fish
+
+
+Player_1 makes a play:
+
+
+Crocodile
+Crocodile
+Crocodile
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+Perch
+
+
+Player_2 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Mouse
+Joker
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_1 makes a play:
+
+
+Elephant
+Mosquito
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Lion
+Lion
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Fox
+
+
+Player_2 makes a play:
+
+
+Elephant
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Mouse
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Lion
+Lion
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+
+
+Player_3 makes a play:
+
+
+Seal
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Fox
+Fox
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+Perch
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Lion
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
 
 
 Player_2 makes a play:
 
 
 Perch
+
+
+Player_3 makes a play:
+
+
+Polar Bear
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Fish
+Fish
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Hedgehog
+
+
+Round ends.
+
+
+Hand ends...
+
+
+Starting hand...
+
+
+Shuffling cards...
+
+
+Dealing cards...
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_3 passes...
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Mouse
+Mouse
+
+
+Player_2 makes a play:
+
+
+Hedgehog
 Joker
 
 
 Player_3 makes a play:
 
 
-Polar Bear
-Polar Bear
-
-
-Player_4 makes a play:
-
-
-Whale
-Whale
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Lion
-Lion
-Lion
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Hedgehog
-Hedgehog
-Hedgehog
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_4 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_1 makes a play:
-
-
 Fox
 Fox
-
-
-Player_2 makes a play:
-
-
-Elephant
-Mosquito
-
-
-Player_3 makes a play:
-
-
-Mouse
-Mouse
-
-
-Player_4 makes a play:
-
-
-Polar Bear
-Polar Bear
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Whale
-Whale
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Fish
-Fish
-
-
-Player_3 makes a play:
-
-
-Perch
-Perch
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
 Fox
-Fox
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Seal
-Seal
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Elephant
 
 
 Player_4 passes...
@@ -6519,148 +6991,8 @@ Player_4 passes...
 Player_1 makes a play:
 
 
-Mouse
-
-
-Player_2 makes a play:
-
-
-Seal
-
-
-Player_3 makes a play:
-
-
-Whale
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 passes...
-
-
-Player_3 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_3 makes a play:
-
-
-Fish
-
-
-Player_4 makes a play:
-
-
-Seal
-
-
-Player_1 passes...
-
-
-Player_2 makes a play:
-
-
-Polar Bear
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 passes...
-
-
-Player_2 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_2 makes a play:
-
-
-Mosquito
-
-
-Player_3 makes a play:
-
-
-Hedgehog
-
-
-Player_4 makes a play:
-
-
-Fox
-
-
-Player_1 makes a play:
-
-
-Lion
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
-Perch
-Perch
-
-
-Player_2 passes...
-
-
-Player_3 passes...
-
-
-Player_4 passes...
-
-
-Player_1 wins a trick!
-
-
-Round ends.
-
-
-Starting round...
-
-
-Player_1 makes a play:
-
-
+Crocodile
+Crocodile
 Crocodile
 
 
@@ -6685,7 +7017,8 @@ Starting round...
 Player_1 makes a play:
 
 
-Seal
+Hedgehog
+Hedgehog
 
 
 Player_2 passes...
@@ -6709,6 +7042,59 @@ Starting round...
 Player_1 makes a play:
 
 
+Lion
+
+
+Player_2 makes a play:
+
+
+Lion
+Lion
+
+
+Player_3 makes a play:
+
+
+Elephant
+Elephant
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Perch
+Perch
+
+
+Player_4 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_1 makes a play:
+
+
+Elephant
 Mosquito
 
 
@@ -6733,13 +7119,312 @@ Starting round...
 Player_1 makes a play:
 
 
-Hedgehog
+Polar Bear
+
+
+Player_2 makes a play:
+
+
+Polar Bear
+Polar Bear
+
+
+Player_3 passes...
+
+
+Player_4 makes a play:
+
+
+Whale
+Whale
+
+
+Player_1 passes...
 
 
 Player_2 passes...
 
 
 Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Seal
+Seal
+Seal
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Perch
+Perch
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Crocodile
+Crocodile
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Fish
+Fish
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Hedgehog
+
+
+Player_4 makes a play:
+
+
+Fox
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 makes a play:
+
+
+Lion
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_3 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_3 makes a play:
+
+
+Mouse
+
+
+Player_4 makes a play:
+
+
+Hedgehog
+
+
+Player_1 passes...
+
+
+Player_2 makes a play:
+
+
+Fox
+
+
+Player_4 makes a play:
+
+
+Lion
+
+
+Player_1 passes...
+
+
+Player_2 passes...
+
+
+Player_4 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_4 makes a play:
+
+
+Mosquito
+
+
+Player_1 makes a play:
+
+
+Fish
+
+
+Player_2 makes a play:
+
+
+Whale
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Mosquito
+Mosquito
+
+
+Player_4 passes...
+
+
+Player_1 passes...
+
+
+Player_2 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_2 makes a play:
+
+
+Fish
+
+
+Player_4 passes...
+
+
+Player_1 makes a play:
+
+
+Seal
+
+
+Player_2 passes...
 
 
 Player_4 passes...
@@ -6754,13 +7439,37 @@ Round ends.
 Starting round...
 
 
+Player_1 makes a play:
+
+
+Whale
+
+
+Player_2 passes...
+
+
+Player_4 passes...
+
+
+Player_1 wins a trick!
+
+
+Round ends.
+
+
+Starting round...
+
+
+Player_1 makes a play:
+
+
+Perch
+
+
 Player_2 makes a play:
 
 
-Lion
-
-
-Player_3 passes...
+Seal
 
 
 Player_4 passes...
@@ -6775,10 +7484,10 @@ Round ends.
 Starting round...
 
 
-Player_3 makes a play:
+Player_2 makes a play:
 
 
-Crocodile
+Mouse
 
 
 Round ends.
@@ -6792,11 +7501,11 @@ Game over!
 Results:
 
 
-Player_1 score is 15.
+Player_1 score is 30.
 
-Player_2 score is 13.
+Player_2 score is 19.
 
-Player_3 score is 19.
+Player_3 score is 18.
 
-Player_4 score is 25.
+Player_4 score is 17.
 

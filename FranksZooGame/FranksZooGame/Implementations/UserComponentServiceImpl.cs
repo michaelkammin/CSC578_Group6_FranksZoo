@@ -41,12 +41,12 @@ namespace FranksZooGame.Implementations
 
         public bool CheckMaxUserCount(List<User> currentUsers, int maxUserCount)
         {
-            return currentUsers.Count <= maxUserCount;
+            return currentUsers.Count < maxUserCount;
         }
 
         public bool CheckMinUserCount(List<User> currentUsers, int minUserCount)
         {
-            return currentUsers.Count >= minUserCount;
+            return currentUsers.Count > minUserCount;
         }
 
         public User FindUser(string userName, List<User> currrentUsers)

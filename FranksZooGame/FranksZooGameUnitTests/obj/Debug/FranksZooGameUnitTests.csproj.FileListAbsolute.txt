@@ -1,0 +1,7 @@
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\bin\Debug\FranksZooGameUnitTests.dll
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\bin\Debug\FranksZooGameUnitTests.pdb
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\bin\Debug\FranksZooGame.exe
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\bin\Debug\FranksZooGame.pdb
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\obj\Debug\FranksZooGameUnitTests.csprojResolveAssemblyReference.cache
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\obj\Debug\FranksZooGameUnitTests.dll
+C:\Courses\CSC578\Group Project\FranksZoo\CSC578_Group6_FranksZoo\FranksZooGame\FranksZooGameUnitTests\obj\Debug\FranksZooGameUnitTests.pdb
